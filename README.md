@@ -1,6 +1,8 @@
 # UnRunPE
 PoC for detecting and dumping process hollowing code injection
 
+**This project has been discontinued.**
+
 **Note**: This only includes a naive implementation which does not work against malformations of the PE structures, e.g. erasure of the PE header in memory.
 
 Apologies for the super terrible code!
